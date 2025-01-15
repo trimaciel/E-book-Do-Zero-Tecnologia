@@ -1,4 +1,2 @@
 rm assets/img
-rm -r E-book-Do-Zero-Tecnologia/ ativos
-/imagem
-
+rm -r E-book-Do-Zero-Tecnologia/ativos/img
