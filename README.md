@@ -25,7 +25,7 @@ ChatGPT：
 |  Ação | prompt |
 | Título | Crie um título para este ebook que incentive e que faça o leitor acreditar que é possível fazer a transição de carreira, que traga impacto positivo e dê esperança o título deve ser curto, lista 5 variações de títulos. 
 
-|   Ação   | prompt |                                     |
+|   Ação   | prompt |  
 | Prompt para criação da imagem - 1 | Dê uma sugestão em inglês de um prompt para gerar uma imagem para a capa do ebook, e o título escolhido será "Do Zero à Tecnologia: Transforme Sua Carreira". 
 | Prompt para criação da imagem - 2 | Me dê outra sugestão, substituindo a forma humana por uma trilha ou uma escada, simbolizando uma subida, ascensão. 
 
