@@ -43,5 +43,8 @@ Gemini：
 
 - Imagens utilizadas e ebook em power point e PDF em `assets`
 
-
+**Atenciosamente,**  
+🍀 **Tri Maciel**  
+📫 (trimaciel@hotmail.com / trimaciel.souza@gmail.com)  
+✨ *Em frente!*  
 
