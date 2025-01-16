@@ -23,19 +23,16 @@ ChatGPT：
 > Sempre deixe um título sugestivo por tópico
 | Título |Crie um título para este ebook que incentive e que faça o leitor acreditar que é possível fazer a transição de carreira, que traga impacto positivo e dê esperança o título deve ser  curto, liste 5 variações de títulos
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                       |
+|   Ação | prompt |
 | Título | Crie um título para este ebook que incentive e que faça o leitor acreditar que é possível fazer a transição de carreira, que traga impacto positivo e dê esperança o título deve ser curto, lista 5 variações de títulos. 
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                       |
+|   Ação   | prompt |                                     |
 | Prompt para criação da imagem - 1 | Dê uma sugestão em inglês de um prompt para gerar uma imagem para a capa do ebook, e o título escolhido será "Do Zero à Tecnologia: Transforme Sua Carreira". 
 | Prompt para criação da imagem - 2 | Me dê outra sugestão, substituindo a forma humana por uma trilha ou uma escada, simbolizando uma subida, ascensão. 
 
 Gemini：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                       |
+|   Ação   | prompt |    
 | Criação da imagem | Crie uma capa de eBook inspiradora com o tema de ascensão na carreira. O fundo exibe um gradiente que vai do azul escuro ao teal brilhante, representando tecnologia e progresso. No centro, uma trilha digital ou uma escada feita de luzes ou circuitos que sobe em direção ao topo, simbolizando crescimento e transformação. O título 'Do Zero à Tecnologia: Transforme Sua Carreira' aparece em destaque, com uma tipografia moderna e futurista. O design transmite motivação, inovação e um senso de conquista.
 
 ## ✨ Features
