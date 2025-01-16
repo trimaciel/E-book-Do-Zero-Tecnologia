@@ -13,17 +13,16 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                       |
+|   Ação   | prompt |
 | Conteúdo | Faça um texto para ebook, aconselhando quem deseja realizar a transição de carreira para área de TI (tecnologia da informação) e que já possui formação de nível superior em outras áreas de humanas, como administração  ou marketing, por exemplo, listando as principais opções do ramo de TI que sejam "no code" ou "low code", faça uma tabela relacionando áreas, os cargos e a média salarial, o que é exigido para exercer estes cargos e a trilha de capacitação de cada área 
 {REGRAS}
 > Explique sempre de uma maneira simples
 > Deixe o texto enxuto
 > Sempre dê preferência à capacitações gratuitas
 > Sempre deixe um título sugestivo por tópico
-| Título |Crie um título para este ebook que incentive e que faça o leitor acreditar que é possível fazer a transição de carreira, que traga impacto positivo e dê esperança o título deve ser  curto, liste 5 variações de títulos
+> 
 
-|   Ação | prompt |
+|  Ação | prompt |
 | Título | Crie um título para este ebook que incentive e que faça o leitor acreditar que é possível fazer a transição de carreira, que traga impacto positivo e dê esperança o título deve ser curto, lista 5 variações de títulos. 
 
 |   Ação   | prompt |                                     |
